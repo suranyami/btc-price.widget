@@ -1,0 +1,2 @@
+Bitcoin exchange rate widget
+----------------------------
